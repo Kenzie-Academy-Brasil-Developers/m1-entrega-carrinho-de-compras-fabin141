@@ -97,7 +97,6 @@ button {
 }
 button:hover {
     background-color: #357fd4;
-    color: #000;
     transition-delay: 0.2s;
     transition: 1s;
     cursor: pointer;
@@ -107,5 +106,4 @@ div:hover {
     transition-delay: 0.2s;
     transition: 1s;
     cursor: pointer;
-    color: #000;
 }
