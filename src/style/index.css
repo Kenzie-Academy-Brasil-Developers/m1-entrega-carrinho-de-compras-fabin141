@@ -45,7 +45,8 @@ div {
     padding-right: 20px;
     border-radius: 5px;
     justify-content: space-between;
-    background-color: #357fd4; 
+    background-color: #557191; 
+    color: #FFF;
     transition: 0.4s;
 }
 ul {
@@ -90,21 +91,21 @@ button {
     letter-spacing: 1px;
     border-radius: 15px;
     border:none;
-    color: #000;
-    background-color: #357fd4;  
+    color:#FFF;
+    background-color: #557191;  
     transition: 0.4s;
 }
 button:hover {
-    background-color: #557191;
-    color: #fff;
+    background-color: #357fd4;
+    color: #000;
     transition-delay: 0.2s;
     transition: 1s;
     cursor: pointer;
 }
 div:hover {
-    background-color: #557191;
+    background-color: #357fd4;
     transition-delay: 0.2s;
     transition: 1s;
     cursor: pointer;
-    color: #FFF;
+    color: #000;
 }
